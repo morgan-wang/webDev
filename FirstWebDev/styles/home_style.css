@@ -1,0 +1,60 @@
+body {
+	padding: 20px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+
+/* 背景 */
+.bg_view {
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #eee;
+	border: 1px solid #999;
+	overflow: auto;
+	min-width: 600px;
+}
+
+.team_glance_view {
+	float: left;
+	padding: 20px;
+	width: 200px;
+	border: 1px solid #999;
+	background-color: white;
+}
+
+.team_image {
+	float: left;
+}
+
+.team_name {
+	width: 200px;
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.logo_image {
+	width: 80px;
+	height: 80px;
+	background-color: white;
+	/*display: block;*/
+	border: 1px solid #999;
+	margin: 20px;
+}
+
+.team_individual_view {
+	float: right;
+	width: 120px;
+	padding: 20px;
+	border: 1px solid #999;
+	background-color: white;
+}
+
+.team_detail_intro {
+	padding: 20px;
+	margin-left: 260px;
+	margin-right: 180px;
+	border: 1px solid #999;
+	background-color: white;
+}
+
